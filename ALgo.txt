@@ -1,0 +1,21 @@
+List_of_match = mettre la matrice model a ce niveau 
+
+for question in question :
+    if question match with element in List_of_match:
+        question.category = predictedCategoryOfMatchedElement
+    else:
+        question.catrgory = resource
+    if question.category = "Boolean":
+        question.type = "Boolean"
+    else if question.category = "Literal"
+        if question match with element in List_ofLiteral_match:
+            question.type = predictedTypeOfMatchedElement
+    else 
+    // when the category is resource 
+        ListOfWord = tokenize(question)
+        ListOfWord.remove(stopWords)
+        for word in ListOfWord:
+            result = sparqlQuery_overDbpedia_with_word
+        
+
+

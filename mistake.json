@@ -1,0 +1,3867 @@
+[
+{
+	"id":127,
+	"question":"Which species does an elephant belong?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":166,
+	"question":"Dortmund is located on terrain feature of what type?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":190,
+	"question":"Which is {distance} of {tributary} of {Gulf of Guinea} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":248,
+	"question":"Which period of time Guizar has awarded as the best lyricist in the Fimfare Award?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":322,
+	"question":"What ARE {Commons Institution page} of {Musée national d'Art moderne} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":336,
+	"question":"What's the original language for Close Encounters of the Third Kind?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":382,
+	"question":"What's the total amount of operators employed in the London Underground?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":406,
+	"question":"Who gave the   {human population} of {continent} of {ghetto in Nazi-occupied Europe} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":507,
+	"question":"In what series was Helmut Kohl's given name Michael?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":509,
+	"question":"the CN of peoples daily is?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":546,
+	"question":"What title did Guy of Lusignan hold, and who followed him ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":548,
+	"question":"Who was the distributor for Married...with Children?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":616,
+	"question":"Which is the life expectancy for Cardigan Welsh Corgi?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":645,
+	"question":"Harold Wilson was elected in what year and to what position?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":831,
+	"question":"What is the SourceForge project of Portable Network Graphics?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":852,
+	"question":"Which is WIPO ST.3 for South Korea?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":884,
+	"question":"Where can I find companies which originated in Canada?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":946,
+	"question":"Where was Alexander buried in Freising Cathedral?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":972,
+	"question":"who date incorporated of honours of andrei gromyko ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":979,
+	"question":"Which are the floors below ground of Taipei 101?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1000,
+	"question":"Was Maureen Connolly victorious?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":1019,
+	"question":"What is ZIP+4 narrative set in Singin' to the Rain?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1116,
+	"question":"What is locator map image for Northern Mindanao ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1138,
+	"question":"What is the Datahub Page of the DDC?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1147,
+	"question":"Who are the inhabitants that originate in Foucault's Pendulum?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1197,
+	"question":"Who are the employees of Food and Drug Administration?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1210,
+	"question":"What family relationship is parent?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1239,
+	"question":"which position Henry Campbell-Bannerman holds and when did he select?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1293,
+	"question":"Is there an audio recording of Charles Duke?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":1325,
+	"question":"How are called the people living around Baghdad?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1362,
+	"question":"What is Madonna's real name?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1429,
+	"question":"To what other locations does the airlines have flights, who also fly to Birmingham?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1441,
+	"question":"What was composed by Stabat Mater, whom is dead?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1571,
+	"question":"Tell me the geographic data of the country of Kampala.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1658,
+	"question":"What surface did John Hume work on?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1669,
+	"question":"How long was Ub Iwerks a teacher at Northeast High School",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1718,
+	"question":"Which is {extreme south} {set location} as {The Third Man} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1728,
+	"question":"Which is the takeoff roll for Typhoon?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1777,
+	"question":"which positioning number for Al Smith (also using the name Alfred)?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1802,
+	"question":"Who {died on} at {patron saint} of {dog} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1830,
+	"question":"What is {WHO Hotel} of {treated by} of {feebleness} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1831,
+	"question":"What is Octavio Paz' Paris Review intervieweeID?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1871,
+	"question":"Which is the Vlinderstichting-ID of Danaus plexippus?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":1999,
+	"question":"On which series Teg Hughes named as James?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2013,
+	"question":"What percentage of Angola's population is European?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2044,
+	"question":"What is endtime for battle of Harvey Williams Cushing ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2171,
+	"question":"The death of Laocoön was famously depicted in a much-admired marble Laocoön and His Sons, attributed by Pliny the Elder to the Rhodian sculptors Agesander, Athenodoros, and Polydorus, which stands in the Vatican Museums, Rome. ... song Laughing references Laocoön, rendering him female (Laocoön and her two sons).",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2180,
+	"question":"What position does David Lloyd George hold?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2234,
+	"question":"How deep is Lake Chiemsee?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2291,
+	"question":"which time spacecraft launch of sputnik 1?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2298,
+	"question":"What is Hannibal's birthdate on the Gregorian Calendar?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2329,
+	"question":"What is formation of executive authority of darts ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2361,
+	"question":"What's the cell component of cholesterol?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2395,
+	"question":"What position does Kevin Rudd hold and when was he elected?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2406,
+	"question":"Name the children of the person who is the star of The Weathered Underground ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2442,
+	"question":"What is the sign for February in Catalan Sign Language?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2544,
+	"question":"What is the mouthpiece of the {Deutsche Bahn} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2552,
+	"question":"What position did Ted Stevens hold and when did it end?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2568,
+	"question":"Who are the inhabitants of the basin countries of Barents Sea?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2648,
+	"question":"What version is stable version of Tencent QQ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2667,
+	"question":"what is the {end time} for {Pierre Trudeau} who has {position held} as {Prime Minister of Canada} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2691,
+	"question":"Which is LAU of Burgas?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2758,
+	"question":"How long has Irving Penn taught at the University of the Arts?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2763,
+	"question":"What is the leading government figure for Moldova?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2764,
+	"question":"What is route map of Milan Metro?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2770,
+	"question":"Enumerate all the first teams of the GPs which were held in Watkins Glen, NY?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2774,
+	"question":"Which {human population} {head quarters} is {Gemäldegalerie} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2785,
+	"question":"Which is the collage image for Boston?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2831,
+	"question":"What is {wikibase:geoLatitude ?max} {land} of {history of Senegal} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2891,
+	"question":"What is pages of tuberculosis ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2916,
+	"question":"Tell me end time for Grodno has country as Second Polish Republic ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2918,
+	"question":"Which is the cytogenetic location for AVP?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2928,
+	"question":"What is the home venue of the New York Yankees?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2950,
+	"question":"Provide a view from winter in Burlington.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2971,
+	"question":"What is CLARA-ID for Audrey Munson?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":2991,
+	"question":"Who are the inhabitants of the state of Fujairah?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3012,
+	"question":"Which are the units sold for PlayStation 2?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3036,
+	"question":"Mention the publishing year of Grand Theft Auto III",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3051,
+	"question":"This extremely large, diverse family of tree frogs contains four subfamilies, in approximately 38 genera, with more than 700 species. Distribution is widespread, with hylids occurring throughout temperate North America and the neotropics, including the Caribbean islands. Hylids are also prevalent in Australia and Papua New Guinea. The genus Hyla is known from temperate Eurasia, Japan, and the northern tip of Africa.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3083,
+	"question":"What is the translation of Dongguan in pinyin?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3091,
+	"question":"What is the Telegram username for Cristina Kirchner",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3128,
+	"question":"What's the National Heritage List for England for Windsor Castle?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3165,
+	"question":"Tell me the number of writers whose works have been recorded in Criteria Studios?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3217,
+	"question":"Which is the inception for The Peasants?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3222,
+	"question":"How did Michael Jackson die?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3224,
+	"question":"What is another name (also known as) used for Georges Bataille?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3286,
+	"question":"What altitude is adjacent to Balikpapan?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3296,
+	"question":"How make lakes are in Tagus river?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3314,
+	"question":"What is teh chemical structure off DL-asparagine?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3336,
+	"question":"where is the {point in time} for {bell hooks} who has {educated at} as {Stanford University} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3385,
+	"question":"Who are the writers of the Wall album of Pink Floyd?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3405,
+	"question":"Where is Tama Cemetery cited as the location of Togo Heihachirpo`s burial plot?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3413,
+	"question":"Which are the inhabitants of county seat of Mbabane?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3472,
+	"question":"What Language is Wu Sanguis distribution map Written in?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3486,
+	"question":"Which President of the United States was James A. Garfield?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3500,
+	"question":"Tell me about position held of Malcolm Fraser and elected in?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3508,
+	"question":"What is the orbital eccentricity of Planet Nine?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3516,
+	"question":"What is the Sea of Galilee's bathymetry image?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3545,
+	"question":"who formation date of topic  of geology of the Moon ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3553,
+	"question":"Harold Wilson was elected in what year and to what position?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3606,
+	"question":"Which is the ultimate tensile strength of nylon?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3625,
+	"question":"Which position and electoral district does John Stuart Mill hold?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3634,
+	"question":"What is Advanced Micro Devices ISIN?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3636,
+	"question":"What is budget for Grand Theft Auto V?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3638,
+	"question":"At which party is Donald Rumsfeld a member and has what is his membership?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3732,
+	"question":"What is autoignition temperature for acetic acid ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3761,
+	"question":"What language does David Seymour speak?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3790,
+	"question":"What's the main food source for the Pongo people?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3839,
+	"question":"What is {end time} and {start time} of {{Boeing 747} has {operator} as {Air Algérie}} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3851,
+	"question":"Which is the apparent magnitude of Antares?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3857,
+	"question":"What position is held by Neville Chamberlain and when was he elected?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3875,
+	"question":"What is {inhabitants} {nationality} of {Leopold von Sacher-Masoch} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3995,
+	"question":"Which is the Magdeburger Biographisches Lexikon of Samuel Hahnemann?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":3999,
+	"question":"What is Ext4 maximum size or capacity?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4044,
+	"question":"Who is the initiated member of the team of Udo Lattek?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4048,
+	"question":"What is the {lake inflows} of the {Lake Urmia} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4087,
+	"question":"Was Lola Flores the oldest child of Rosario Flores?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":4099,
+	"question":"Which is the issue of tuberculosis?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4119,
+	"question":"What position did James Matheson hold and when did it start?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4155,
+	"question":"What law dictates the safety classification and labeling of ethanol?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4168,
+	"question":"What is Jean le Rond D'Alembert's birthday?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4219,
+	"question":"What is Waseda's University's Revised Hepburn romantization?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4222,
+	"question":"Which is the electric dipole moment of oxalic acid?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4249,
+	"question":"Which is the maximum age for compulsory education of Haiti?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4275,
+	"question":"How high is the Yokohama Marine Tower?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4280,
+	"question":"What is the worst-case performance of Dijkstra's algorithm?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4294,
+	"question":"The papers at Religious Society of Friends uses what Institutional template?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4323,
+	"question":"Which is the InChl for pyridine?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4330,
+	"question":"Which is the bore of AK-47?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4344,
+	"question":"Who is {born on} {daddy} of {Shah Jahan} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4430,
+	"question":"What is the standard heat of formation for conjugate acid of chloride ion?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4433,
+	"question":"Which is {surface area} of {agent} of {French invasion of Russia} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4439,
+	"question":"What is boiling point for formaldehyde?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4440,
+	"question":"Who was the plaintiff in the Nuremberg trials?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4448,
+	"question":"What is the kinematic viscosity of sulfuric acid (H2SO4)?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4482,
+	"question":"Tell me the total number of organizations who maintain the bridges made by the malaysian PWD?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4527,
+	"question":"What is runway of Heathrow Airport ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4537,
+	"question":"What is Roger Bacon's PhilPapers theme?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4549,
+	"question":"Which is the InChlKey for zinc chloride?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4554,
+	"question":"What is solubility of carbon monoxide ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4598,
+	"question":"What is Young's modulus for nylon ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4615,
+	"question":"Which is the name in kana of Akira?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4644,
+	"question":"What's the CPI for the LOFAR headquarters.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4666,
+	"question":"What is the net income of Apple?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4671,
+	"question":"What is the prevalence of tuberculosis at Norway?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4686,
+	"question":"What position was held by John Major and what year was he elected in?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4773,
+	"question":"who birth date of written by of hungarian dances ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4840,
+	"question":"Who is Cravo Albin of Gilberto Gil?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4918,
+	"question":"Tell me the domain of saint or deities for Santo Tomas de Aquinas?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4961,
+	"question":"Who manufactures Xbox and what is the lowest price it can be sold for?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4969,
+	"question":"what is magnetic moment for electorn?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4970,
+	"question":"What is the stature of CN Tower that is the standard utilized is tallness to the involved floor?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":4999,
+	"question":"What is the official language of Syrian?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5062,
+	"question":"What is The LIR of Liechtenstein?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5091,
+	"question":"Who discovered the plays of Emile Walteufel?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5105,
+	"question":"How big is the earth's diameter?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5127,
+	"question":"What is Castor's luminosity?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5147,
+	"question":"Which is the first flight for II-76?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5153,
+	"question":"What position does Jeremy Corbyn hold and when was he elected?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5162,
+	"question":"What is the destinations of the airline whose headquarters is in Manchester?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5176,
+	"question":"What is the dimension of works by Jean Racine?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5193,
+	"question":"Who are the inhabitants of the the county seat of Ulaanbaatar?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5215,
+	"question":"What is the article for safety classification and labelling for zinc oxide?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5229,
+	"question":"Tell me the point in time for Pierre de Fermat has academic degree as Bachelor of Laws?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5242,
+	"question":"Did Mecklenburg-Vorpommern die in Gadebusch Rural District?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":5253,
+	"question":"List the children of the parent of Marvin Bush.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5275,
+	"question":"What is the gross domestic product per capita based on purchasing power parity of Siddhartha's location?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5284,
+	"question":"How long was Henry VII king of England?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5297,
+	"question":"What are the inhabitants of the location where Alexander Fleming died?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5307,
+	"question":"Where can i find companies which were started in Toronto?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5330,
+	"question":"For what point Marc Chagall has received Erasmus prize award?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5391,
+	"question":"Cowboy Bebop was a part of manga, when was the publication date?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5395,
+	"question":"Tell me the Sports-Reference.com Olympic athlete ID of Serena Williams.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5420,
+	"question":"What is the median income of Hong Kong",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5423,
+	"question":"Which is the speed of sound for helium?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5438,
+	"question":"Which is Gene Atlas Image of RHO?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5441,
+	"question":"Whats Denali's topographic prominence",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5463,
+	"question":"What is the series that Rudolf Steiner was known as Rudolf?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5585,
+	"question":"Did Masaccio die before the statement of Gregorian",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":5591,
+	"question":"Tell me the Human population and birthplace of konstantin khabensky?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5599,
+	"question":"Which is the Bulbapedia article of Super Smash Bros. Melee?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5620,
+	"question":"Can you tell me Unicode's IBM graphic character set global ID?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":5626,
+	"question":"What is Joseph Buonaparte's CANTIC-ID?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5726,
+	"question":"which point in time for Alicia de Larrocha has award received as Princess of Asturias Award for the Arts ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5736,
+	"question":"What position does Gough Whitlam hold and what position was he elected in?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5815,
+	"question":"which position Chiang Kai-shek holds and when did he select?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5824,
+	"question":"On what day were the children of Teodoro Obiang Nguema Mbasogo born?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5825,
+	"question":"What prize money did Wangari Maathai receive for the Nobel Peace Prize ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5846,
+	"question":"Tell me the legislative bodies are there for France?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5857,
+	"question":"What is Spotify's snap package?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5866,
+	"question":"What is {slogan} of {working for} {Vilfredo Pareto} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5867,
+	"question":"Who inhabits the administrative headquarters of Spanish East Indies?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5887,
+	"question":"Marge Champion's given name is Celeste in which series ordinal?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5896,
+	"question":"What is the botanist author abbreviation of Robert Brown?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5928,
+	"question":"What is Sächsische Biografie of Lucas Cranach the Elder ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5929,
+	"question":"What's the currency for the Ryukyu Kingdom?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":5971,
+	"question":"What is the Alaskan demon?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6002,
+	"question":"What timer home venue starts Montreal Canadians in Center Belly?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6095,
+	"question":"Who are the inhabitants of Taiwan?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6109,
+	"question":"What is the the wikibase:geoLatitude ?min of the location of the discovery of neodymium?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6157,
+	"question":"What did The Lord of the Rings receive as an award at the NPR Top 100 Science Fiction and Fantasy Books?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6178,
+	"question":"Based on sourcing circumstances, when is Lysippos' birthday?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6186,
+	"question":"What is Wine AppDB-Identification gateway.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6197,
+	"question":"Tell the official language of Sevastopol",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6206,
+	"question":"Where in Cincinnati is the Procter & Gamble headquarters located?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6243,
+	"question":"Which is a quote from Wilhelm von Humboldt?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6248,
+	"question":"Who is the author of Amartya Sen?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6271,
+	"question":"Which point in time for zibo has twinned administrative body as Gwangju ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6273,
+	"question":"Which is the patronage of the Berlin U-Bahn?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6281,
+	"question":"What is the genetic association with the {post-traumatic stress disorder} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6297,
+	"question":"What is the correct way to say ecology in German?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6345,
+	"question":"The minimum amount of plays in Texas Hold 'Em is?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6405,
+	"question":"Which is the Wikitribune category for corruption?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6436,
+	"question":"Texas Tech University is located at what street address?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6438,
+	"question":"what is the original title of murder method in henry iii, holy roman emperor?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6440,
+	"question":"What street is the publisher of De revolutibus orbium coelestium on?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6457,
+	"question":"What's the main food source for the Pongo people?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6475,
+	"question":"What's the shortest time a person can be exposed to antimony?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6476,
+	"question":"Whats the MASL of HQ location of the Fédération Internationale de Motocyclisme ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6537,
+	"question":"Which is the Commons gallery for Georges Seurat?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6538,
+	"question":"Which classes does the Millepede belong to?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6566,
+	"question":"What is the watershed area of the White Nile?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6576,
+	"question":"Which is the eMedicine for obesity?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6584,
+	"question":"who Q48460 of topic  of history of minnesota ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6597,
+	"question":"How is the main electricity voltage divided in Metro Manila?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6601,
+	"question":"What is chemical formula of diamond.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6610,
+	"question":"What {human population} {died in} {Benito Pérez Galdós} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6625,
+	"question":"Which genres can Oasis be classified as?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6649,
+	"question":"Who is the mayor of Berlin?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6677,
+	"question":"What is the Fedora package for Ruby?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6678,
+	"question":"What is the Bavarian monument of the Deutsches Museum?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6681,
+	"question":"What is art-name of Lin Biao ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6682,
+	"question":"What is the maximum length of Lake Baikal?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6715,
+	"question":"From what countries have people participated in the Excelsior Stakes?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6764,
+	"question":"Why did Robert Peel's position end and what was it?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6768,
+	"question":"Who were the students of Caspar David Friedrich?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6774,
+	"question":"In 1874 the McIntosh family moved to 2 Firpark Street, Dennistoun, from which William McIntosh rented part of the grounds of Golfhill House. There he grew flowers in which his family were encouraged to take an interest, the origin of Mackintosh's life-long interest in botanical forms as a subject matter for the watercolours and sources for his decorative work. At the age of seven Mackintosh was sent first to Reid's School, and then to Alan Glen's, despite suffering from dyslexia. There a chill on the sportsfield resulted in a slight droop of the right eyelid visible in some photographs.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6810,
+	"question":"Winston Churchill was elected to what position and when?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6904,
+	"question":"Tell me the legislative bodies are there for France?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6906,
+	"question":"who telephone code of location born of jack kevorkian ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6909,
+	"question":"what diameter is 5.56*45mm NATO in the base?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6919,
+	"question":"Where can I find some buildings of modern architecture?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6958,
+	"question":"What is formation of succeeded by of Julian calendar ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6969,
+	"question":"What is Robert Falcon Scott's Dreadnought Project Page?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6974,
+	"question":"Which equation do I use to measure horsepower ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6978,
+	"question":"Who were fighting the war where the QF Hotchkiss was used?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":6999,
+	"question":"Who are the art directors for Snow White and the Seven Dwarfs?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7015,
+	"question":"What is work period start for Corín Tellado ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7020,
+	"question":"How would you spell meat pie using the international phonetic alphabet?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7026,
+	"question":"What is the Commons category for Stéphane Grappelli who was buried in the Crématorium-columbarium du Père-Lachaise?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7029,
+	"question":"What period of time E. M. Forster has been nominated for the Nobel prize for literature?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7037,
+	"question":"What are some other great things by the person who produced Queer as Folk?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7038,
+	"question":"How high is the market capitalisation of the company Paypal ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7151,
+	"question":"which position Oswald Mosley did hold and when did he select?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7152,
+	"question":"What is the public key fingerprint of built IBM Personal Computers?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7169,
+	"question":"What is the name of Nicholas II of Russia who was born in Pushkin?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7238,
+	"question":"Is James Baldwin in the KLfG Critical Dictionary of foreign contemporary literature.",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":7268,
+	"question":"Which is Prosopographia Attica for Epicurus?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7282,
+	"question":"What are some things people born in Louisiana are famous for?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7313,
+	"question":"Which is the national mission of Mary Higgins Clark?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7354,
+	"question":"In which studio did the Beatles record their first album?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7363,
+	"question":"What is ISO 639-2 cod for vietnamese",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7366,
+	"question":"What are the stable version on each platform for Assassin's Creed?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7373,
+	"question":"Which is the annual energy output for Three Georges Dam?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7387,
+	"question":"What is the position of Bernie Sanders and his electoral district?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7398,
+	"question":"Bonar Law was elected in what year and for what position?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7432,
+	"question":"Which is the commemorative plaque image of Betty White?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7443,
+	"question":"Who sponsors the FC Bayern Munich?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7484,
+	"question":"What is the founding year of the brewery that produces Pilsner Urquell?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7542,
+	"question":"Where is Antonio Vivaldi buried?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7561,
+	"question":"What is relationship science organization  I'd of union of European football association?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7590,
+	"question":"Which is the weather history for New York City?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7662,
+	"question":"What is  the Gentoo package of Perl ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7695,
+	"question":"Who does the cricket bat team Women in Red banner play against?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7743,
+	"question":"Who gave the{birthdate} of {doctoral student} of {Martin Luther} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7750,
+	"question":"What is the -35 Lightning II wing area?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7815,
+	"question":"What is hte Google Doodle for Dorothea Mackellar?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7884,
+	"question":"Which is dissolved, abolished or demolished for Delian League?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7932,
+	"question":"Who is the daughter of Ingrid Bergman married to?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7950,
+	"question":"What position does Joseph Chamberlain hold and what  position was he elected in?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7977,
+	"question":"What kind of music did Antonio Aguilar form?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":7979,
+	"question":"What is the art-name of Kang Youwei in traditional Chinese characters?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8029,
+	"question":"Who gave the {starting} of {valid in jurisdiction} of {Roman magistrate} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8053,
+	"question":"What is { solubility } of { nitrous oxide } { solvent } is { water }?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8061,
+	"question":"What is Dewey Decimal Classification for Canton of Fribourg ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8064,
+	"question":"What is Kabul the capital of?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8072,
+	"question":"Which Ubuntu package is Scala's?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8089,
+	"question":"Which is the married name for Angel Merkel?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8142,
+	"question":"What is {CPI inflation rate} {between} {Continuation War} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8149,
+	"question":"Which is Mohs' hardness of pyrite?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8153,
+	"question":"What is the notation that implies centrifugal force ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8174,
+	"question":"who inhabitants} of state of mbuji-mayi ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8195,
+	"question":"the inventory number guernica",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8202,
+	"question":"What is Wikipedia's F-Droid package?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8226,
+	"question":"Which is the hardness for stainless steel?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8275,
+	"question":"Where are the inhabitants of 'Flowers in the Attic' originally from?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8282,
+	"question":"For how long was Abram L. Sachar the chairperson for Brandeis University.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8292,
+	"question":"What is the statue of David?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8294,
+	"question":"Which is the handle for the Van Gogh Museum?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8307,
+	"question":"What are the symptoms of malaria?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8382,
+	"question":"What is the { award } from { Mario Puzo }, which is the subject of the { 47th Academy Awards }?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8385,
+	"question":"What is the majority age of those who are loyal to Moshe Dayan?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8470,
+	"question":"Who gave the {pronunciation audio} of {language written} of {Jonas Savimbi} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8480,
+	"question":"What do Wikidata usage instructions say about legend?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8482,
+	"question":"What is the geographic location of New York State University?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8485,
+	"question":"Enumerate all those who are in the Board of companies founded in New York?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8497,
+	"question":"On which UGSG-ANSS page does the 2004 Indian Ocean earthquake appear?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8514,
+	"question":"What is ceiling exposure limit for sodium hydroxide ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8539,
+	"question":"who date formed  of college attended  of Caryl Churchill ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8566,
+	"question":"Where is the coastline of Bouvet Island?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8597,
+	"question":"What is the death day of the William Herschel} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8663,
+	"question":"What Canadian river has its discharge located in Whitefield?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8672,
+	"question":"Who lives in the birthplace of Oliver Heaviside?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8675,
+	"question":"What's the stock exchange for Toshiba?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8693,
+	"question":"What countries populate the border areas of Malawi?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8758,
+	"question":"Who are the fellow workers of James Monroe?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8774,
+	"question":"What is the name of the hometown of Guillaume Apollinaire?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8776,
+	"question":"In which serial ordinal was Eudoxia Lopukhina was spouse of Peter the Great?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8780,
+	"question":"Where is the source of the Amazon in Nevado Misti?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8812,
+	"question":"Was Franz Boas an established member?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":8818,
+	"question":"Which is the icon for Cascading Style Sheets?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8867,
+	"question":"Who are the language speakers of the language signed by Albert Renger-Patzsch?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8896,
+	"question":"On which year Felix Adler became an employee of Columbia University?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8972,
+	"question":"What is the grade of Andy Murray",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":8992,
+	"question":"What's the cell component of cholesterol?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9008,
+	"question":"Which is the name in native language for Paul Strand?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9059,
+	"question":"Which is the location map image of Western Sahara which is in aspect ration 2:1?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9061,
+	"question":"What is the ionization energy of the nicotine?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9100,
+	"question":"What is the volume of the Dead Sea?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9104,
+	"question":"What image does India have for Virat Kholi as a sportsman?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9123,
+	"question":"North Vietnam has which ISO 3166-3?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9158,
+	"question":"What is the name of the series from which Alvar Aalto exists?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9172,
+	"question":"Which  is farthest north of place held by Balkans Campaign?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9192,
+	"question":"What is the inhabitants of the arrondissement of Apulia ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9203,
+	"question":"What is the prevalence of tuberculosis?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9207,
+	"question":"Sputnik 1 has what orbital period?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9256,
+	"question":"How was Don Lafontaine murdered?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9312,
+	"question":"Who gave the{label in sign language} of {second language} of {Stirling Moss} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9363,
+	"question":"What is the official language of the Byzantine Empire?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9460,
+	"question":"What magnitude on the Richter magnitude scale was the 2011 Tohoku earthquake and tsunami?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9474,
+	"question":"What episode in the series Marc Anthony is entitles Marco?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9500,
+	"question":"Where are the Channel Islands?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9519,
+	"question":"What is the page banner for Joshua Tree National Park?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9530,
+	"question":"WHAT IS THE LABEL IN ORIGINAL LANGUAGE OF ALTERY OF UTERUS",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9561,
+	"question":"For how long has Cardinal Mazarin been the Bishop of Metz",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9569,
+	"question":"Which is the Artsy gene for Cubism?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9615,
+	"question":"Which is the bibliographic LCOC LCCN for Monthly Notices of the Royal Astronomical Society?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9647,
+	"question":"What is the thickness of Rosetta Stone?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9674,
+	"question":"Who is the initiated board game publisher of The Eternal Champion?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9686,
+	"question":"Who founded the play for Martin Johnson?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9704,
+	"question":"Which {telephone prefix} is {born at} {Abu Nuwas} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9715,
+	"question":"mike krzyzewski name",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9771,
+	"question":"Which is the Terminologia Embryologica for embryo?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9849,
+	"question":"What was Brazil's lowest rank in the FIFA World Ranking?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9868,
+	"question":"What is the official recorded song used during the British Rule in Burma?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9871,
+	"question":"Which is the 3D model of David?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9900,
+	"question":"What is the rank was held by Jimmy connors as tennis singles?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9909,
+	"question":"Who gave the {date of the end} of {mentor} of {Muslim ibn al-Hajjaj} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9934,
+	"question":"Was Gregory Hines nominated for Best Actor in a Musical at the Tony Awards?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":9982,
+	"question":"What's the native label for congee?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9987,
+	"question":"What is the reference for Louis-Nicolas Davout who was burried in the Pere Lachaise Cemetery?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":9995,
+	"question":"What is the noble title of Chlothar II?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10075,
+	"question":"What are the instructions for safe use of uracil?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10090,
+	"question":"What was the last year that FC Bayern Munich used the Olympic Stadium of Munich as its home venue?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10138,
+	"question":"What is the Entonants voyagerus login for Martin Amis?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10159,
+	"question":"Where is the port of Minecraft?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10206,
+	"question":"What is the Deutsche Synchronkartei actor-ID of Matthew McConaughey?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10208,
+	"question":"What are the inhabitants of the studio where Halloween was filmed?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10211,
+	"question":"What are the speakers of the working languages of the Kingdom of England?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10224,
+	"question":"how big is the total area of North Rhine- Westphalia?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10227,
+	"question":"Which is the sheet music for Symphony No. 9?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10241,
+	"question":"Is tuberculosis prevalent?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":10256,
+	"question":"is the {start time} for {New York City} has {head of government} as {Robert F. Wagner} ?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":10284,
+	"question":"Which is the D-U-N-S for University of California, Berkeley?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10291,
+	"question":"Who are the inhabitants that comes from of Lost?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10318,
+	"question":"What is the position of Bernie Sanders and his electoral district?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10337,
+	"question":"What was the birth name of Ayn Rand?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10341,
+	"question":"To which places do the flights go by airlines headquartered in the UK?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10378,
+	"question":"What is started in and competes of Mike Powell ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10396,
+	"question":"Give me everything owned by networks which is lead by Steve Burke?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10432,
+	"question":"How long has Kharkiv Oblast been located in Ukraine?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10478,
+	"question":"What is the geo Latitude of the exclave of Melilla?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10485,
+	"question":"What is General Electric's snapchat username?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10503,
+	"question":"Who gave  the {version number} of {edition} of {The Elements of Style} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10617,
+	"question":"What was Charles Barkley award received for All-NBA Team?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10636,
+	"question":"What time did the country of Ravenna in the Republic of Venice end?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10673,
+	"question":"What significant event happened when Anna Wintour was experiencing childbirth?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10675,
+	"question":"What is the { ordinary series } for { David d'Angers } as { Jean }?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10695,
+	"question":"Which census population method was used to determine the Region of Valparaiso?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10709,
+	"question":"Until when was the capital of the Grand Duchy of Finland Turku?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10722,
+	"question":"What position did Kobe Bryant play as?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10728,
+	"question":"What is the Elo rating for Judit Polgar?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10760,
+	"question":"who symbol of quantity of cord ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10766,
+	"question":"What us Clovis I's noble title and who follows?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10807,
+	"question":"What is east of Henry Luce's nation?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10913,
+	"question":"What kind of income is generated by a floppy disk?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10948,
+	"question":"Who introduced the prize received of Semyon Budyonny?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10978,
+	"question":"What record is held by Renaud Lavillenie and where?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":10979,
+	"question":"Tell me about noble title of Pepin the Short and follows",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11053,
+	"question":"What is the level of attendance of the United States Holocaust Memorial Museum?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11065,
+	"question":"What territory overlaps the Rideau Canal?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11086,
+	"question":"What's the study of natural language processing?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11130,
+	"question":"What is the noble title of Godfrey of Boullions and who follows him?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11145,
+	"question":"What is the absolute viscosity of hydrogen cyanide?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11149,
+	"question":"How high is the lighthouse in Colombo?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11174,
+	"question":"What is the molecular formula of the drug prescribed for AIDS?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11206,
+	"question":"Which is parent company of Ganymede?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11226,
+	"question":"What is the logo image of University of Bonn ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11252,
+	"question":"What is the taxon common name of hoatzin?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11328,
+	"question":"What is the native language of the Circassians?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11341,
+	"question":"What dates was Margarita Simonyan married to her husbands?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11369,
+	"question":"The maximum speed of a Typhoon?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11370,
+	"question":"What series ordinal was given to Antonio Aguilar, given name José Pascual?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11410,
+	"question":"Give me the rank position for John Gielgud as John?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11412,
+	"question":"Enumerate the cars related to the ones assembled in Toluca?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11422,
+	"question":"Tell me when  Mark Burnett, executive producer started for the Apprentice?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11424,
+	"question":"Where were Alexander Hamilton and Elizabeth Schuyler Hamilton married?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11446,
+	"question":"What position does David Lloyd George hold?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11497,
+	"question":"What is the Giphy username for MGM?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11532,
+	"question":"Is Triticum aestivum in Swedish?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":11535,
+	"question":"What determination method is the estimation process for population of Virginia Beach?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11541,
+	"question":"What is the occurence of hepatitis C?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11543,
+	"question":"WHO IS INTRODUCED FROM INTERNATIONAL PRACTICAL SHOOTING CONFEDERATION",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11547,
+	"question":"On a ruler, what are the symbols of measurement?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11553,
+	"question":"What  fruit image is on Tulipa's capsule?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11571,
+	"question":"What size is the town where Rashi lives?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11600,
+	"question":"What is the CESI conservation information for Banff National Park?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11624,
+	"question":"What does the native language of Alberto Dines sound like?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11655,
+	"question":"What is ethanol's UN class?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11698,
+	"question":"tell me about the position that martin McGuinness elected in?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11708,
+	"question":"What is the dynamic viscosity of acetic acid?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11719,
+	"question":"In the Antofagasta Region, what is the male population?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11740,
+	"question":"What is the LoC Classification of the government of the Kingdom of Funan?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11822,
+	"question":"Who are the inhabitants of the sovereign state of Ulhasnagar?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11841,
+	"question":"What is NBN System Key for Accipiter?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11846,
+	"question":"What is the subtopic of the spin proton decay} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11850,
+	"question":"What is the epitaph for Alwin Nikolais at Crématorium-columbarium du Père-Lachaise?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11856,
+	"question":"Give me all companies in the advertising industry.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11883,
+	"question":"What is the language of Baha u llah?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11911,
+	"question":"Was Paul Erdos a doctoral student?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":11920,
+	"question":"By what era was the Archaean period succeeded?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11935,
+	"question":"Where I can find on the map Kherson Oblast?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11942,
+	"question":"What is birth name of Charles Simonyi ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11974,
+	"question":"What is handball's NDL?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11989,
+	"question":"In what country is Mikhail Fridman a citizen?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11995,
+	"question":"Which is the hydraulic head of Grand Coulee Dam?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":11996,
+	"question":"Winston Churchill was elected to what position and when?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12030,
+	"question":"May I have directions to Naqsh-e Jahan Square, please?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12031,
+	"question":"What is the service retirement for GALEX?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12074,
+	"question":"What is the job title of Gregory VII and when did he start working?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12075,
+	"question":"What is Park Geun-hye real name, who wrote in Hanja?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12091,
+	"question":"What is the Alcalá de Henares population determined by the register office?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12094,
+	"question":"What is the Commons map category of Salvador?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12133,
+	"question":"What is software version of Tinder that is operating system is iOS ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12176,
+	"question":"Which was the last year John Russell, 1st Earl Russell held the position of the Lord President of the Council?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12186,
+	"question":"How was Guangzhou Metro electrified?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12203,
+	"question":"Where did Piero della Francesca die?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12284,
+	"question":"What is PubChem CID for DL-proline ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12293,
+	"question":"Where is total reserves work location of Halldor Laxness?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12339,
+	"question":"What years did Bernard Leach have a student named Peter Stichbury?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12371,
+	"question":"What is Oxidation state of integrated circuit?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12381,
+	"question":"The total fertility rate of Liechtenstein is?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12382,
+	"question":"What is the born on of advisor of Gaston Bachelard ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12383,
+	"question":"Who gave the{ZIP+4} of {resident in} of {James Ellroy} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12408,
+	"question":"Who is persons of Ancient Athens of Aristophanes?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12445,
+	"question":"What is the mass of deuterium oxide?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12466,
+	"question":"Which position was George Reid held and elected in?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12473,
+	"question":"What is the person is use researchgate of James Hanson",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12510,
+	"question":"who is inhabitants of subtopic for earthquake ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12569,
+	"question":"Who developed Need for Speed?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12587,
+	"question":"Which telecommunications organizations are located in Belgium?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12589,
+	"question":"How long did Zeno ruled the Byzantine Empire?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12617,
+	"question":"what is the market capitalization of the Alibaba Group",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12636,
+	"question":"What is Danish Bibliometric Research Indicator level for the Lancet ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12662,
+	"question":"Which is the title for Girl with a Pearl Earring?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12672,
+	"question":"What are the earnings before interest and taxes accrued by the Secure Digital card?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12700,
+	"question":"What was the discovery of permaculture?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12710,
+	"question":"who inflation rate of consumer price inde of aspect  of history of Chad?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12723,
+	"question":"Tell me the redshift of the planetary system called R136.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12742,
+	"question":"What is the Library of Congress's collection or exhibition size?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12766,
+	"question":"What is crafted from the invention of carbon nanotube?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12769,
+	"question":"The name for a female advocate?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12790,
+	"question":"According to Theodora's birthdate, was Gregorian born earlier than 1584?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12894,
+	"question":"What is SlideShare username of Kennedy Space Center ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12895,
+	"question":"What is the posthumous name of Emperor Taizong of Tang in the writing system of traditional Chinese characters?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12904,
+	"question":"Where is the operating area for Super Rugby?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":12930,
+	"question":"What is the name of David Brudnoy's alumni foundation?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13008,
+	"question":"What's Russia's inception?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13052,
+	"question":"Until what year was Zico a member of the Brazilian national soccer team?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13085,
+	"question":"What is the average weight of people from Montreal Canada?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13114,
+	"question":"What is the introduction period of Siege of Leningrad?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13119,
+	"question":"In French have a person in grammatical?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13132,
+	"question":"Which  is total liabilities of Goldman Sachs?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13150,
+	"question":"Why did Robert Peel's position end and what was it?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13213,
+	"question":"What is the native language of the Circassians?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13298,
+	"question":"What is quantity of Medal for Honor ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13323,
+	"question":"Which is the operating income for Qantas?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13334,
+	"question":"Tell me what the unit symbol of a square inch is.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13345,
+	"question":"Which is the relief location map for Serbia?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13351,
+	"question":"Which is the geoshape of the Republic of the Congo?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13366,
+	"question":"Which is the box office for Breakfast at Tiffany's?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13369,
+	"question":"What position did Mary McAleese have and when did she stop?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13385,
+	"question":"Tell me the inhabitants that originated in the Bachelor.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13455,
+	"question":"How short is the shortest active NBA player?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13460,
+	"question":"Which is the transliteration for Guangzhou Metro?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13505,
+	"question":"What is the Youtube Tag of Zaha Hadid?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13543,
+	"question":"What is the CoA image order of Johann Tetzel?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13592,
+	"question":"What time did Aarhus serve as an adminstrative body at Rostock?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13618,
+	"question":"Where are the inhabitants of The Fresh Prince of Bel-Air from?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13645,
+	"question":"Which is the subreddit for Srinagar?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13655,
+	"question":"On what day did Charles, Prince of Wales, become the Prince of Wales?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13659,
+	"question":"What playing range does the alto saxophone have?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13669,
+	"question":"What time is turbulence implied?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13693,
+	"question":"Which is the image of grave of Jean-Pierre Melville?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13745,
+	"question":"What is the official language of the location of the pons?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13847,
+	"question":"Where is Pluto's argument of periapsis?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13898,
+	"question":"which position did Radomir Putnik hold and when did it end?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13901,
+	"question":"What is the post of Clement Attlee and when he was sworn in?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13903,
+	"question":"What is ITIS TSN for Sphyraena?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13944,
+	"question":"WHICH IS THE OFFICIAL LANGUAGE OF GIOVANNI BATTISTA RUBINI?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13949,
+	"question":"There were many participants for the October Revolution.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13969,
+	"question":"What is discharge of Paraná ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13974,
+	"question":"In which locations did Jan Brueghel the Elder work?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":13987,
+	"question":"What is the latest software version of PHP?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14009,
+	"question":"How deep is Lake Placid?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14015,
+	"question":"Which is the metallicity for Messier 13?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14053,
+	"question":"What is Messier 83's galaxy morphological type?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14084,
+	"question":"Which is {located at street address} of {burial place} {Alessandro Moreschi} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14098,
+	"question":"What ARE {ICAO airline designator} of {Lufthansa} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14111,
+	"question":"Which is the UNII for silver nitrate?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14172,
+	"question":"Which is a service entry of Airbus A340?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14201,
+	"question":"Where was Elizabeth Ann Seton buried?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14212,
+	"question":"Who are the inhabitants of Benue?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14250,
+	"question":"which fax number of Federal Communications Commission ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14265,
+	"question":"wich means {explosive velocity} at {2,4,6-trinitrotoluene} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14270,
+	"question":"Which continents can be reached by flight companies available on Gatwick Airport?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14284,
+	"question":"what is PO Box in rijksmuseum?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14301,
+	"question":"Where did Gianni Agnelli work and when did it ended?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14306,
+	"question":"Which position and electoral district does John Stuart Mill hold?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14334,
+	"question":"Give me the grandchildren of Bruce Lee.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14404,
+	"question":"What flux did the Coma Cluster produce?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14447,
+	"question":"What is Jules Michelet's Library of Congress Classificaiton?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14452,
+	"question":"What position does Jeremy Corbyn hold and when was he elected?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14513,
+	"question":"What is the molar mass of the parent body of Titania?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14641,
+	"question":"Tell me if Hugh Willoughby was born prior to the Gregorian date of 1984?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14669,
+	"question":"What did the Kingdom of Bohemia use before 1584?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14677,
+	"question":"What { short name } of { Guadeloupe } is { instance of } { emoji sequence of flags }?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14719,
+	"question":"What is the (software version) of (Python) that is (version type). Is this the (stable version)?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14762,
+	"question":"Which is the partition coefficient water/octanol of carbon tetrachloride?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14843,
+	"question":"What is {population} of {Los Lagos Region} where {determination method} is {census} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14875,
+	"question":"WHICH IS THE MOTIVATION PARTY OF WARSAW PACT INVASION OF CZECHOSLOVAKIA",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14876,
+	"question":"What is the temperature of Triton?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14887,
+	"question":"What is the standard deviation of the uncertainty of the half-life of a neutron?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14896,
+	"question":"what is a flag image of Nebraska",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14914,
+	"question":"What is the acronym used for Portable Network Graphics?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":14949,
+	"question":"What it the Swedish portrait archive for Jons Jacob Berzelius?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15001,
+	"question":"What is the German district key of Mönchengladbach",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15013,
+	"question":"What is the University of Sao Paulo's e-MEC entry [number]?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15060,
+	"question":"Livermorium has which element symbol?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15066,
+	"question":"Louis VII of France held which position and when did he start?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15069,
+	"question":"What is the name in the native language of William Pitt the Younger for the additive the Younger?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15083,
+	"question":"Winston Churchill was elected to what position and when?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15110,
+	"question":"Give me the point in time for Camilo Jose Cela has award received as Princess of Asturias Literary Prize?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15220,
+	"question":"Which is the residential of Otto Lilienthal nationality?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15228,
+	"question":"Which is the Sandbox-String for degree Fahrenheit?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15234,
+	"question":"How do you say culinary mustard in Dutch?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15307,
+	"question":"What is the GenBank Assembly accession of the Peregrine Falcon?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15324,
+	"question":"What is posthumous name of the Jiajing Emperor ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15326,
+	"question":"Tell me about position held of Vladimir Putin and manager/director?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15336,
+	"question":"Where is the aerodrome reference point at Hiroshima?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15357,
+	"question":"What is the noble title of Ptolemy I Soter and by whom are they followed?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15362,
+	"question":"Who are the inhabitants of endemism in Varanus komodoensis?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15378,
+	"question":"Who gave  the  {pronunciation audio} of {national of} of {Maurice de Vlaminck} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15382,
+	"question":"Name the religions names of the  {Mother Teresa} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15401,
+	"question":"What did The Garden of Earthly Delights depict of Iconclass notation?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15440,
+	"question":"Who developed Space Invaders?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15473,
+	"question":"What is the main color of a polar bear?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15532,
+	"question":"Java Man is the taxon parent of what time?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15551,
+	"question":"What is the vapor pressure of fluorine?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15576,
+	"question":"Which is the Chinese Library Classification of sport?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15637,
+	"question":"Tell me about position held of Edmund Barton and electoral district?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15707,
+	"question":"Is the language of Neptune, Czech?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":15749,
+	"question":"During what time did Stanley Bruce receive an award for Companion of Honour?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15797,
+	"question":"tell me about the position that martin McGuinness elected in?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15851,
+	"question":"Which is the bite force quotient for sun bear?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15858,
+	"question":"Which is the McCune-Reischauer romanization for Kim Jong-il",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":15908,
+	"question":"Which is the Amazon author page for Oprah Winfrey?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16020,
+	"question":"Who was the distributor for Married...with Children?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16070,
+	"question":"What's the retirement age in Australia?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16203,
+	"question":"What is KulturNav-id of Ilya Repin ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16216,
+	"question":"Who gave the {name in original language} of {spoke language} of {Vincenzo Scamozzi} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16242,
+	"question":"Which was the cost of Titanic?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16253,
+	"question":"Is Thom Enriquez part of the film crew for Beauty and the Beast?",
+	"category":"boolean",
+	"solution":"literal"
+},
+{
+	"id":16284,
+	"question":"There are several administrative territorial entities for Norway.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16285,
+	"question":"Marie Jose of Belgium and her spouse start Umberto II of Italy at what time?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16347,
+	"question":"Who is the author in the National Academy of Sciences for Proceedings of the National Academy of Sciences of the United States of America?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16495,
+	"question":"Which  is UN packaging group of hydrofluoric acid ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16508,
+	"question":"Martin Ludwig Bormann (17 June 1900 – 2 May 1945) was a prominent official in Nazi ... Bormann joined a paramilitary Freikorps organisation in 1922 while working as manager of a large ... Bormann was released from prison in February 1925. ..... The Führerbunker was located under the Reich Chancellery garden in the ...",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16531,
+	"question":"Which is the cruise speed of Airbus A340?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16584,
+	"question":"whats the route of administration for lead poisoning?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16626,
+	"question":"On which series of Appetite for Destruction is Paradise City?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16649,
+	"question":"Tell me the series ordinal for John Greenleaf Whittier has given name as Greenleaf?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16650,
+	"question":"What is PubMed Health specializing in myocardial infarction?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16716,
+	"question":"What is inhabitants of born in  Joseph Colombo ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16719,
+	"question":"who  population of comes from of foreigner ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16748,
+	"question":"What voltage do the outlets in Valledupar put out?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16763,
+	"question":"What did the pupil of Mencius die of?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16773,
+	"question":"vehicles per capit in shanghai",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16786,
+	"question":"Who was the first Edmund Gwenn?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16880,
+	"question":"Who was the Hartsfield-Jackson Atlanta International Airport named after?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16925,
+	"question":"In what area is Fernandel buried at the Passy Cemetery?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16979,
+	"question":"Give me the runtime of Toy Story.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16990,
+	"question":"What other destinations do airlines go to, whose flights also come to Glasgow?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":16995,
+	"question":"What is  in the Dictionary of Swedish National Biography of Pär Lagerkvist ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17000,
+	"question":"What proportion of Toyota's overall business is represented by the subsidiary Toyota Motor Manufacturing Texas?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17048,
+	"question":"What is displacement treated by  cancer ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17055,
+	"question":"Give me the series ordinal for the Lion King with film crew member Lisa Keene.",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17076,
+	"question":"How is October signed in Catalan Sign Language?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17112,
+	"question":"According to the registration office, what is the current population of Granada?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17151,
+	"question":"Who is the MAMSL narrator set in Journey to the End of the Night ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17173,
+	"question":"Which language is the stable version of Android?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17245,
+	"question":"What is the language spoken in the city which Ronaldinho played sports?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17257,
+	"question":"In what grave is Henrik Ibsen buried ar Var Freisers gravlund?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17287,
+	"question":"How often did Jane Fonda marry?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17290,
+	"question":"What was the year Pedro Pablo Kuczynski had his last citizenship of the United States of America?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17344,
+	"question":"which position Henry Campbell-Bannerman holds and when did he select?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17357,
+	"question":"In what series does Nanette Fabray play a character called Ruby?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17366,
+	"question":"What is the maximum magniture of 4 Vesta?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17399,
+	"question":"Which is the IRC channel for Ruby?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17489,
+	"question":"The Annals of Mathematics is in what Dialnet journal?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17528,
+	"question":"who inhabitants of suspect of battle of franc ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":17561,
+	"question":"Who is the employer of the {Hans Krebs} ?",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":21959,
+	"question":"how old is sacha baron cohen",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":22318,
+	"question":"what is kareem abdul jabbar real name",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":22388,
+	"question":"what episode did kate leave ncis",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":23398,
+	"question":"what american penny is worth money",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":24328,
+	"question":"what does uvm stand for college",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":24334,
+	"question":"what time is the grand prix starting",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":24397,
+	"question":"what happened to rev. robert schuller",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":24678,
+	"question":"where did andy murray started playing tennis",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":24930,
+	"question":"how deep is lake merritt oakland",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":25115,
+	"question":"what age did william penn get married",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":25241,
+	"question":"what was dr seuss 's real name",
+	"category":"resource",
+	"solution":"literal"
+},
+{
+	"id":25286,
+	"question":"what years did joe montana win super bowl",
+	"category":"resource",
+	"solution":"literal"
+},
+
+]
